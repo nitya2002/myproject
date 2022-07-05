@@ -1,1 +1,5 @@
+//file are in three states
+1.untracked state 
+2.staged state 
+3 commit state
 helo
